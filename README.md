@@ -1,1 +1,3 @@
-# AirBnB_clone_v3
+AUTHORS 
+Emmanuel Iboro
+Onyinye Udoba
